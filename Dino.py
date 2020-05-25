@@ -1,7 +1,3 @@
-"""Not work well at the time of transition of day to night."""
-
-
-
 import pyautogui
 from PIL import ImageGrab
 import time
